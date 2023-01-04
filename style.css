@@ -1,0 +1,12 @@
+* {
+    font-family: 'Atkinson Hyperlegible';
+}
+
+#title {
+    padding: 1px;
+    margin: auto;
+}
+
+#menubar {
+    font-size: 28px;
+}
